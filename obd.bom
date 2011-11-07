@@ -1,0 +1,70 @@
+Partlist exported from /Users/nabiltewolde/Documents/projects/odb/obd.sch at 11-11-01 2:27 PM
+
+Part Value          Device                    Package         Description                                  
+C1   0.1uF          CAP0805                   0805            Capacitor                                    
+C2   1uF            CAP0805                   0805            Capacitor                                    
+C3   10uF           CAP0805                   0805            Capacitor                                    
+C4   27pF           CAP0805                   0805            Capacitor                                    
+C5   27pF           CAP0805                   0805            Capacitor                                    
+C6   1uF            CAP0805                   0805            Capacitor                                    
+C7   1uF            CAP0805                   0805            Capacitor                                    
+C8   560pF          CAP0805                   0805            Capacitor                                    
+C9   560pF          CAP0805                   0805            Capacitor                                    
+C10  0.1uF          CAP0805                   0805            Capacitor                                    
+D1   IN4148         DIODESOD-123              SOD-123         Diode                                        
+D2   IN4148         DIODESOD-123              SOD-123         Diode                                        
+D3   IN4148         DIODESOD-123              SOD-123         Diode                                        
+IC1  LM339D         LM339D                    SO14            Low Power Low Offset Voltage Quad Comparators
+LED1                LEDCHIPLED_0805           CHIPLED_0805    LED                                          
+LED2                LEDCHIPLED_0805           CHIPLED_0805    LED                                          
+LED3                LEDCHIPLED_0805           CHIPLED_0805    LED                                          
+LED4                LEDCHIPLED_0805           CHIPLED_0805    LED                                          
+Q1   2N7002         MOSFET-NCHANNELSMD        SOT23-3                                                      
+R1   10K            RESISTOR0805-RES          0805            Resistor                                     
+R2   62K 1%         RESISTOR0805-RES          0805            Resistor                                     
+R3   10K 1%         RESISTOR0805-RES          0805            Resistor                                     
+R4   330            RESISTOR0805-RES          0805            Resistor                                     
+R5   330            RESISTOR0805-RES          0805            Resistor                                     
+R6   330            RESISTOR0805-RES          0805            Resistor                                     
+R7   330            RESISTOR0805-RES          0805            Resistor                                     
+R8   1.5K           RESISTOR0805-RES          0805            Resistor                                     
+R9   1K             RESISTOR0805-RES          0805            Resistor                                     
+R10  10             RESISTOR0805-RES          0805            Resistor                                     
+R11  510 0.5W       RESISTOR1206              1206            Resistor                                     
+R12  1K             RESISTOR0805-RES          0805            Resistor                                     
+R13  510 0.5W       RESISTOR1206              1206            Resistor                                     
+R14  1K             RESISTOR0805-RES          0805            Resistor                                     
+R15  10K            RESISTOR0805-RES          0805            Resistor                                     
+R16  10K            RESISTOR0805-RES          0805            Resistor                                     
+R17  1K             RESISTOR0805-RES          0805            Resistor                                     
+R18  10K            RESISTOR0805-RES          0805            Resistor                                     
+R19  4.7K           RESISTOR0805-RES          0805            Resistor                                     
+R20  100            RESISTOR0805-RES          0805            Resistor                                     
+R21  100            RESISTOR0805-RES          0805            Resistor                                     
+R22  866            RESISTOR0805-RES          0805            Resistor                                     
+R23  240            RESISTOR0805-RES          0805            Resistor                                     
+R24  374            RESISTOR0805-RES          0805            Resistor                                     
+R25  10K            RESISTOR0805-RES          0805            Resistor                                     
+R26  2.2K           RESISTOR0805-RES          0805            Resistor                                     
+R27  10K            RESISTOR0805-RES          0805            Resistor                                     
+R28  10K            RESISTOR0805-RES          0805            Resistor                                     
+R29  10K            RESISTOR0805-RES          0805            Resistor                                     
+R30  1K             RESISTOR0805-RES          0805            Resistor                                     
+R31  10K            RESISTOR0805-RES          0805            Resistor                                     
+R32  10K            RESISTOR0805-RES          0805            Resistor                                     
+R33  2K             RESISTOR0805-RES          0805            Resistor                                     
+R34  8K             RESISTOR0805-RES          0805            Resistor                                     
+R35  10K            RESISTOR0805-RES          0805            Resistor                                     
+R36  10K            RESISTOR0805-RES          0805            Resistor                                     
+R37  10K            RESISTOR0805-RES          0805            Resistor                                     
+T1   mmbt2222       MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC       NPN Transistror                              
+T2   mmbt2222       MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC       NPN Transistror                              
+T3   MMBT3604       MMBT3640LT1-PNP-SOT23-BEC SOT23-BEC       PNP Transistror                              
+T4   mmbt2222       MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC       NPN Transistror                              
+T5   mmbt2222       MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC       NPN Transistror                              
+U$1  STN1110        STN1110                   SOIC-28         Multiprotocol OBD to UART Interpreter        
+U$2  TACT-SWITCH    TACT-SWITCH               TACT-SWITCH     SWITCH TACT 6MM MOM SMT 150GF                
+U$3  OBDII          OBDII                     OBDII                                                        
+U1   MCP2551        MCP2551                   SO08                                                         
+U2   V_REG_317DPACK V_REG_317DPACK            V-REG_DPACK     Voltage Regulator                            
+Y1   16MHz          CRYSTAL5X3                CRYSTAL-SMD-5X3 Crystals                                     
