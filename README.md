@@ -18,7 +18,7 @@ The STN1110 supports the following protocols:
 * ISO 11898 (raw CAN)
 
 Licensing
-_________
+---------
 
 Bluetooth OBD Adapter by Nabil Tewolde is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
