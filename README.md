@@ -8,7 +8,7 @@ Bluetoothe OBD-II Adapter
 
 This hardware project is the reference schematic for the STN1110 with an added bluetooth module layed out in Eagle. It is currently untested.
 
-The STN1110 supports the following protocols:
+The STN1110 supports the following protocols
 * SAE J1850 PWM
 * SAE J1850 VPW
 * SAE J1939
