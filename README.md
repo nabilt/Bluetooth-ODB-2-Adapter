@@ -6,7 +6,7 @@ Bluetoothe OBD-II Adapter
 * Website:   <http://www.nabiltewolde.com/search/label/obd/>
 * GitHub:    <https://github.com/nabilt/Bluetooth-ODB-2-Adapter>
 
-This hardware project is the reference schematic for the STN1110 with an added bluetooth module layout in Eagle. It is currently untested.
+This hardware project is the reference schematic for the STN1110 with an added bluetooth module layed out in Eagle. It is currently untested.
 
 The STN1110 supports the following protocols:
 * SAE J1850 PWM
