@@ -8,7 +8,7 @@ Bluetoothe OBD-II Adapter
 
 This hardware project is the reference schematic for the STN1110 with an added bluetooth module layed out in Eagle. It has been tested on a 2000 Toyota Camry.
 
-![Screen shot 1](/obd_v1.0a.jpg)
+![Screen shot 1](/pictures/obd_v1.0a.jpg)
 
 The STN1110 supports the following protocols
 * SAE J1850 PWM
