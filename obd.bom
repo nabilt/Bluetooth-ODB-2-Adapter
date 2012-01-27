@@ -1,9 +1,9 @@
-Partlist exported from /Users/nabiltewolde/Documents/projects/odb/obd.sch at 11-12-26 8:20 PM
+Partlist exported from /Users/nabiltewolde/Documents/projects/odb/obd.sch at 12-01-14 10:41 PM
 
 Part Value          Device                    Package                Description                                  
 C1   0.1uF          CAP0805                   0805                   Capacitor                                    
-C2   1uF            CAP0805                   0805                   Capacitor                                    
-C3   10uF           CAP0805                   0805                   Capacitor                                    
+C2   1uF      1      CAP0805                   0805                   Capacitor                                    
+C3   10uF < 5Ohm    CAP0805                   0805                   Capacitor                                    
 C4   27pF           CAP0805                   0805                   Capacitor                                    
 C5   27pF           CAP0805                   0805                   Capacitor                                    
 C6   1uF            CAP0805                   0805                   Capacitor                                    
@@ -28,8 +28,6 @@ LED1                LEDCHIPLED_0805           CHIPLED_0805           LED
 LED2                LEDCHIPLED_0805           CHIPLED_0805           LED                                          
 LED3                LEDCHIPLED_0805           CHIPLED_0805           LED                                          
 LED4                LEDCHIPLED_0805           CHIPLED_0805           LED                                          
-LED5                LEDCHIPLED_0805           CHIPLED_0805           LED                                          
-LED6                LEDCHIPLED_0805           CHIPLED_0805           LED                                          
 LED7                LEDCHIPLED_0805           CHIPLED_0805           LED                                          
 Q1   2N7002         MOSFET-NCHANNELSMD        SOT23-3                                                             
 R1   10K            RESISTOR0805-RES          0805                   Resistor                                     
@@ -70,8 +68,6 @@ R35  10K            RESISTOR0805-RES          0805                   Resistor
 R36  10K            RESISTOR0805-RES          0805                   Resistor                                     
 R37  10K            RESISTOR0805-RES          0805                   Resistor                                     
 R38  38?            RESISTOR0805-RES          0805                   Resistor                                     
-R39  330            RESISTOR0805-RES          0805                   Resistor                                     
-R40  330            RESISTOR0805-RES          0805                   Resistor                                     
 R41  330            RESISTOR0805-RES          0805                   Resistor                                     
 T1   mmbt2222       MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC              NPN Transistror                              
 T2   mmbt2222       MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC              NPN Transistror                              
@@ -79,9 +75,9 @@ T3   MMBT3604       MMBT3640LT1-PNP-SOT23-BEC SOT23-BEC              PNP Transis
 T4   mmbt2222       MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC              NPN Transistror                              
 T5   mmbt2222       MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC              NPN Transistror                              
 U$1  STN1110        STN1110                   SO-28W                 Multiprotocol OBD to UART Interpreter        
+U$2  16MHz          CRYSTAL-2.5X3.5           CRYSTAL-2.5X3.5        ABRACON - ABM8G-16.000MHZ-B4Y-T - Crystal    
 U$4  NCP699         NCP699                    SOT23-5                150 mA CMOS Low Iq LDO with Enable in TSOP-5 
 U1   MCP2551        MCP2551                   SO08                                                                
 U2   V_REG_317DPACK V_REG_317DPACK            TO252                  Voltage Regulator                            
 U3                  BLUETOOTH-SERIAL-SMD      34P-1.524-27X13-W/-ANT                                              
 X1                  DB9MALE                   DB9_M                  DB9 Connector                                
-Y1   16MHz          CRYSTAL5X3                CRYSTAL-SMD-5X3        Crystals                                     

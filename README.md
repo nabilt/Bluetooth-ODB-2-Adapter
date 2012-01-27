@@ -2,11 +2,13 @@ Bluetoothe OBD-II Adapter
 ==========================================
 
 * Author:    Nabil Tewolde (<nabil.tewolde@gmail.com>)
-* Version:   1.0.0
+* Version:   1.0.0a
 * Website:   <http://www.nabiltewolde.com/search/label/obd/>
 * GitHub:    <https://github.com/nabilt/Bluetooth-ODB-2-Adapter>
 
-This hardware project is the reference schematic for the STN1110 with an added bluetooth module layed out in Eagle. It is currently untested.
+This hardware project is the reference schematic for the STN1110 with an added bluetooth module layed out in Eagle. It has been tested on a 2000 Toyota Camry.
+
+![Screen shot 1](/obd_v1.0a.jpg)
 
 The STN1110 supports the following protocols
 * SAE J1850 PWM
