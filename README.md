@@ -6,7 +6,7 @@ Bluetoothe OBD-II Adapter
 * Website:   <http://www.nabiltewolde.com/search/label/obd/>
 * GitHub:    <https://github.com/nabilt/Bluetooth-ODB-2-Adapter>
 
-This hardware project is the reference schematic for the STN1110 with an added bluetooth module layed out in Eagle. It has been tested on a 2000 Toyota Camry with the Torque Android app 
+This hardware project is the reference schematic for the STN1110 with an added bluetooth module layed out in Eagle. It has been tested on a 2000 Toyota Camry with the [Torque] Android app 
 
 [Torque]: https://market.android.com/details?id=org.prowl.torquefree&feature=more_from_developer#?t=W251bGwsMSwxLDEwMiwib3JnLnByb3dsLnRvcnF1ZWZyZWUiXQ...
 
