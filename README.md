@@ -11,10 +11,12 @@ This hardware project is the reference schematic for the STN1110 with an added b
 [Torque]: https://market.android.com/details?id=org.prowl.torquefree&feature=more_from_developer#?t=W251bGwsMSwxLDEwMiwib3JnLnByb3dsLnRvcnF1ZWZyZWUiXQ...
 
 Tested on:
+
 * 2000 Toyota Camry 
 * 2002 Dodge Caravan
 
 The STN1110 supports the following protocols
+
 * SAE J1850 PWM
 * SAE J1850 VPW
 * SAE J1939
