@@ -79,5 +79,5 @@ U$2  16MHz          CRYSTAL-2.5X3.5           CRYSTAL-2.5X3.5        ABRACON - A
 U$4  NCP699         NCP699                    SOT23-5                150 mA CMOS Low Iq LDO with Enable in TSOP-5 
 U1   MCP2551        MCP2551                   SO08                                                                
 U2   V_REG_317DPACK V_REG_317DPACK            TO252                  Voltage Regulator                            
-U3                  BLUETOOTH-SERIAL-SMD      34P-1.524-27X13-W/-ANT                                              
+U3                  BLUETOOTH-SERIAL-SMD      34P-1.524-27X13-W/-ANT http://www.dx.com/p/wireless-bluetooth-rs232-ttl-transceiver-module-80711                                             
 X1                  DB9MALE                   DB9_M                  DB9 Connector                                
