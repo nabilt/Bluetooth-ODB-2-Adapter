@@ -3,7 +3,7 @@ Bluetoothe OBD-II Adapter
 
 * Author:    Nabil Tewolde (<nabil.tewolde@gmail.com>)
 * Version:   1.0.0a
-* Website:   <http://www.nabiltewolde.com/search/label/obd/>
+* Website:   <https://nabil.me/?s=obd>
 * GitHub:    <https://github.com/nabilt/Bluetooth-ODB-2-Adapter>
 
 This hardware project is the reference schematic for the STN1110 with an added bluetooth module layed out in Eagle. Any software that is compatible with the ELM327 should be compatible with the STN1110. I use the [Torque] Android app.
